@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/IshwarRajChauhan/IshwarRajChauhan/main/profile.jpeg"
        width="220"
        height="220"
-       style="border-radius:50%;" />
+       style="border-radius:50%; border:3px solid #58a6ff;" />
 </p>
 
 ---

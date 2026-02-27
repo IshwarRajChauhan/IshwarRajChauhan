@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ishwar Raj Chauhan</h1>
 <h3 align="center">Cloud + AI Developer | AWS Serverless Builder | Future Cloud Engineer</h3>
 
+<p align="center">
+  <img src="https://github.com/IshwarRajChauhan/IshwarRajChauhan/blob/main/profile.jpg"
+       width="180"
+       height="180"
+       style="border-radius:50%; object-fit:cover;" />
+</p>
+
 ---
 
 ## ☁️ About Me

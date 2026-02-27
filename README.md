@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/IshwarRajChauhan/IshwarRajChauhan/main/profile.jpeg"
        width="220"
        height="220"
-       style="border-radius:50%; border:3px solid #58a6ff;" />
+       style="border-radius:50%; object-fit:cover;" />
 </p>
+
 <h3 align="center">Cloud + AI Developer | AWS Serverless Builder | Future Cloud Engineer</h3>
 
 

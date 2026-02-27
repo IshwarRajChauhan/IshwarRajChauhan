@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishwar Raj Chauhan</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IshwarRajChauhan/IshwarRajChauhan/main/profile.jpeg"
-       width="220"
-       height="220"
-       style="border-radius:50%; object-fit:cover;" />
+  <img src="https://raw.githubusercontent.com/IshwarRajChauhan/IshwarRajChauhan/main/profile1.jpeg"
+       width="240"/>
 </p>
 
 <h3 align="center">Cloud + AI Developer | AWS Serverless Builder | Future Cloud Engineer</h3>

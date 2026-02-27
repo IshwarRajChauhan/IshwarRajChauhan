@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IshwarRajChauhan/IshwarRajChauhan/main/profile.jpeg"
-       width="180"
-       height="180"
-       style="border-radius:50%; object-fit:cover;" />
+       width="220"
+       height="220"
+       style="border-radius:50%;" />
 </p>
 
 ---

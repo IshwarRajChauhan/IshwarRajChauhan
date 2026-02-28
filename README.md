@@ -40,7 +40,7 @@
 
 ### 💻 Programming
 - Python
-- JavaScript (Basics)
+- c++
 - SQL
 
 ### 🧠 Cloud Concepts

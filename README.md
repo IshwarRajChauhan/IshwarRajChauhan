@@ -54,8 +54,8 @@
 
 ## 📂 Featured Projects
 
-🔹 **Serverless Event Notification System**  
-Event-driven AWS architecture using API Gateway → Lambda → SNS.
+🔹 **Serverless Account Balance API**  
+Serverless AWS architecture using API Gateway → Lambda → S3 to retrieve account data dynamically via REST endpoint.
 
 🔹 **Infrastructure as Code Deployments**  
 Automated AWS resource provisioning using CDK & CloudFormation.
